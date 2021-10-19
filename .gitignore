@@ -1,0 +1,8 @@
+# ignore .idea
+.idea
+
+# ignore database
+messages.db
+
+# ignore macOS files
+.DS_Store
